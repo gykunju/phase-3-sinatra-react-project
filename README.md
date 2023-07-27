@@ -2,6 +2,8 @@
 
 This is the backend for the Game Talk project, which is a web application that provides knowledge about various games, their companies, and gameplays. It allows users to explore different games, add favorites, leave reviews, and discover gameplays.
 
+**LINK TO THE FRONT-END APPLICATION** : [https://github.com/gykunju/Sinatra-Phase-3-Project-Frontend.git]
+
 ## Database Schema
 
 The database schema for the Game Talk backend consists of several tables:
